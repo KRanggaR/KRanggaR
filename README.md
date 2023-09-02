@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **krangar83540@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1hOB28cAarvtoqlcnebDYx4KQ6KAp68ZY/edit?usp=sharing&ouid=112610318575191809435&rtpof=true&sd=true](https://docs.google.com/document/d/1hOB28cAarvtoqlcnebDYx4KQ6KAp68ZY/edit?usp=sharing&ouid=112610318575191809435&rtpof=true&sd=true)
+- 📄 Know about my experiences [https://tinyurl.com/5cmdkszn](https://tinyurl.com/5cmdkszn)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
