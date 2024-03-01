@@ -1,16 +1,14 @@
 
 <h1 align="center">Hey! 👋, I'm Kishant</h1>
-<h3 align="center">I am a dedicated B.Tech student majoring in Computer Science, with a specialization in Big Data.A fourth year student, my passion for becoming a skilled software developer drives my academic pursuits. Eager for opportunities to apply my knowledge, I am actively seeking exposure and open to engaging in challenging projects that fuel my excitement for continuous learning.</h3>
+<h3 align="center">I am a dedicated B.Tech student majoring in Computer Science, with a specialization in Big Data.A final year student, my passion for becoming a skilled software developer drives my academic pursuits. Eager for opportunities to apply my knowledge, I am actively seeking exposure and open to engaging in challenging projects that fuel my excitement for continuous learning.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kranggar&label=Profile%20views&color=0e75b6&style=flat" alt="kranggar" /> </p>
 
-- 🌱 I’m currently learning **PowerBI**
+- 🌱 I’m currently learning **ML & Data Analytics**
 
 - 📫 How to reach me **krangar83540@gmail.com**
-
-- 📄 Know about my experiences [https://tinyurl.com/5cmdkszn](https://tinyurl.com/5cmdkszn)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
