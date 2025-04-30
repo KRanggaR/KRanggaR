@@ -1,8 +1,8 @@
 <h1 align="center">Hey! 👋 I'm Kishant</h1>
-<h3 align="center">Final-year B.Tech student in Computer Science (Big Data Specialization) | Aspiring Software Developer</h3>
+<h3 align="center">Computer Science Graduate (Big Data Specialization) | Web Developer Intern | Aspiring Software Developer</h3>
 
 <p align="center">
-  Passionate about solving real-world problems through code and continuously learning to become a skilled software developer. Eager to gain hands-on experience through challenging projects in Data Analytics and Full Stack Development.
+  Passionate about solving real-world problems through code and continuously learning to become a skilled software developer. Currently interning as a Web Developer and gaining hands-on experience in Full Stack Development and Data Analytics.
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -13,7 +13,7 @@
 
 - 🌱 Currently exploring **Data Analytics & Web Development**
 - 👨‍💻 Most comfortable with **SQL, JavaScript, HTML, CSS, and React**
-- 💼 Open to internship or project opportunities in software and web development
+- 💼 Currently working as a **Web Developer Intern** | Open to full-time opportunities
 - 📫 Reach me at **krangar83540@gmail.com**
 
 ---
