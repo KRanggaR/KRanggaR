@@ -2,7 +2,7 @@
 <h3 align="center">Final-year B.Tech student in Computer Science (Big Data Specialization) | Aspiring Software Developer</h3>
 
 <p align="center">
-  Passionate about solving real-world problems through code and continuously learning to become a skilled software developer. Eager to gain hands-on experience through challenging projects in ML, Data Analytics, and Full Stack Development.
+  Passionate about solving real-world problems through code and continuously learning to become a skilled software developer. Eager to gain hands-on experience through challenging projects in Data Analytics and Full Stack Development.
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -11,8 +11,8 @@
   <img src="https://komarev.com/ghpvc/?username=kranggar&label=Profile%20views&color=0e75b6&style=flat" alt="kranggar" /> 
 </p>
 
-- 🌱 Currently exploring **Machine Learning & Data Analytics**
-- 👨‍💻 Most comfortable with **SQL, JavaScript, HTML, and CSS**
+- 🌱 Currently exploring **Data Analytics & Web Development**
+- 👨‍💻 Most comfortable with **SQL, JavaScript, HTML, CSS, and React**
 - 💼 Open to internship or project opportunities in software and web development
 - 📫 Reach me at **krangar83540@gmail.com**
 
@@ -37,7 +37,6 @@
 ### 🛠️ Languages and Tools:
 
 <p align="left">
-  
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   </a>
@@ -45,8 +44,18 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   </a>
- 
-  
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
+  </a>
+
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  </a>
 </p>
 
 ---
